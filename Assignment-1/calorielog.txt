@@ -1,0 +1,10 @@
+Calorie Tracker Session: 2025-11-08 18:44:32
+Meal Name	Calories
+Breakfast		500.0
+Lunch		600.0
+Dinner		400.0
+Total		1500.00
+Average		500.00
+Daily Limit: 1600.0
+Limit Status: Within limit
+Great! You are within your daily calorie limit.
